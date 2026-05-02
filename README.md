@@ -14,3 +14,5 @@ Clone the repo and open `index.html` in any browser:
 ```bash
 git clone https://github.com/kushal-lab123/Creating-cardspart1.git
 cd Creating-cardspart1
+## Live Demo
+🔗 [View the live project here](https://kushal-lab123.github.io/Creating-cardspart1/)
